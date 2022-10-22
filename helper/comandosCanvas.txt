@@ -1,0 +1,7 @@
+crair sketch
+
+canvas-sketch sketch-01.js --new
+
+salvar
+
+canvas-sketch sketch-01.js --output=output/01
