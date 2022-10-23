@@ -14,3 +14,11 @@ npm install canvas-sketch-util
 
  canvas-sketch sketch-02.js
 
+ instalando a extensão que baixa um png
+
+ npm install @ffmpeg-installer/ffmpeg --global
+
+ canvas-sketch sketch-03 --output=output/03 --stream
+
+ CTRL + SHIFT + S
+
