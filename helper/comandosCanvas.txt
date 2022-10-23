@@ -2,6 +2,15 @@ crair sketch
 
 canvas-sketch sketch-01.js --new
 
-salvar
+salvar como imagem
 
 canvas-sketch sketch-01.js --output=output/01
+
+baixando o canvas util
+
+npm install canvas-sketch-util
+
+ abrir no browser 
+
+ canvas-sketch sketch-02.js
+
